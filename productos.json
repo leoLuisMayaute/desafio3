@@ -1,0 +1,32 @@
+[
+    {
+        "title": "mouse",
+        "price": 50,
+        "thumbnail": "url",
+        "id": 1
+    },
+    {
+        "title": "teclado",
+        "price": 200,
+        "thumbnail": "url",
+        "id": 2
+    },
+    {
+        "title": "audifono",
+        "price": 120,
+        "thumbnail": "url",
+        "id": 3
+    },
+    {
+        "title": "mouse",
+        "price": 50,
+        "thumbnail": "url",
+        "id": 4
+    },
+    {
+        "title": "audifono",
+        "price": 120,
+        "thumbnail": "url",
+        "id": 6
+    }
+]
