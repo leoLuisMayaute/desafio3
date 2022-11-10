@@ -2,7 +2,7 @@ const express = require('express');
 const classCotenedor = require('./container')
 
 const app = express();
-const PORT = 8080;
+const PORT = process.env.PORT;
 
 const contenedor = new classCotenedor('./productos.json');
 
